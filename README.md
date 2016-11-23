@@ -1,50 +1,10 @@
-# algorithms
+# Algorithms implement in Clojure
 
-FIXME: description
-
-## Installation
-
-Download from http://example.com/FIXME.
-
-## Usage
-
-FIXME: explanation
-
-Run the project directly:
-
-    $ boot run
-
-Run the project's tests (they'll fail until you edit them):
-
-    $ boot test
-
-Build an uberjar from the project:
-
-    $ boot build
-
-Run the uberjar:
-
-    $ java -jar target/algorithms-0.1.0-SNAPSHOT-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
+- Gale-Shapley Stable Matching algorithm
 
 ## License
 
-Copyright © 2016 FIXME
+Copyright © 2016 Lu, Jun
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
